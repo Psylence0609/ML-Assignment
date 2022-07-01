@@ -1,2 +1,2 @@
 # ML-Assignment
-Telugu Character Recognition
+Telugu Character Recognition using various methods
